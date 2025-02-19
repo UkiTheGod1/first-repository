@@ -12,3 +12,7 @@ This is a simple project to learn GitHub basics.
 - Instructions for beginners. 
  
 - Easy-to-follow examples.  
+
+## New Branch
+
+This is a new branch and we are just experimenting here.
