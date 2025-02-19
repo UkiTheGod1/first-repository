@@ -12,3 +12,7 @@ This is a simple project to learn GitHub basics.
 - Instructions for beginners. 
  
 - Easy-to-follow examples.  
+
+## Update
+
+We are learning new GitHub functions...
